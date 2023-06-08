@@ -14,3 +14,6 @@ This file executes a script that displays the current directory's content in a l
 
 4-listmorefiles :
 This file executes a script that displays the current directory's contents including hidden files starting with . using the long format
+
+5-listfilesdigitonly :
+This file executes a script that displays the current directory contents in long format, grouped numerically and show hidden files starting with .
