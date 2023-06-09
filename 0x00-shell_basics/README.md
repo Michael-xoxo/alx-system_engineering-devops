@@ -32,3 +32,6 @@ This file executes a script that deletes the directory my_first_directory
 
 10-back :
 This file executes a script that changes the working directory to thr previous one
+
+11-lists :
+This file executes a script that lists all files
