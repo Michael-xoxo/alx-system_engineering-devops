@@ -56,3 +56,6 @@ ASDF
 
 103-commas:
 ASDF
+
+school.mgc:
+ASDF
