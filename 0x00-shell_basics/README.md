@@ -47,3 +47,6 @@ This file executes a script that copies all the HTML files from the working dire
 
 100-lets_move :
 ASDF
+
+101-clean_emacs :
+ASDF
