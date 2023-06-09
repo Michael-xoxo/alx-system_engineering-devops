@@ -35,3 +35,6 @@ This file executes a script that changes the working directory to thr previous o
 
 11-lists :
 This file executes a script that lists all files
+
+12-file_type :
+This file executes a script that prints the type of file named iamafile
