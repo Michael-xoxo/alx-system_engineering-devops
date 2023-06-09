@@ -20,3 +20,6 @@ This file executes a script that displays the current directory contents in long
 
 6-firstdirectory :
 This file executes a script that creates a directory in the /tmp directory
+
+7-movethatfile :
+This file executes a script that moves the file betty from /tmp/betty to /tmp/my_first_directory
