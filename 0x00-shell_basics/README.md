@@ -1,4 +1,4 @@
-This file describes what each script does
+ This file describes what each script does
 
 0-current_working_directory :
 This file executes a script that prints the absolute path name of the current working directory
@@ -17,3 +17,6 @@ This file executes a script that displays the current directory's contents inclu
 
 5-listfilesdigitonly :
 This file executes a script that displays the current directory contents in long format, grouped numerically and show hidden files starting with .
+
+6-firstdirectory :
+This file executes a script that creates a directory in the /tmp directory
