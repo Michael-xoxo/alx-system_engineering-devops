@@ -26,3 +26,6 @@ This file executes a script that moves the file betty from /tmp/betty to /tmp/my
 
 8-firstdelete :
 This file executes a script that deletes the file betty
+
+9-firstdirdeletion :
+This file executes a script that deletes the directory my_first_directory
