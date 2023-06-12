@@ -28,3 +28,6 @@ This file executes a script that adds execution permission to the owner, the gro
 
 8-James_Bond :
 This file executes a script that gives all permissions to other users and none to the owner and group
+
+9-John_Doe :
+This file executes a script that changes the mode of the file hello
