@@ -25,3 +25,6 @@ This file executes  a script that adds execute permission to the owner and the g
 
 7-everybody :
 This file executes a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+
+8-James_Bond :
+This file executes a script that gives all permissions to other users and none to the owner and group
