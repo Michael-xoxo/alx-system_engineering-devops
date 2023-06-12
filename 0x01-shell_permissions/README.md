@@ -31,3 +31,6 @@ This file executes a script that gives all permissions to other users and none t
 
 9-John_Doe :
 This file executes a script that changes the mode of the file hello
+
+10-mirror_permissions :
+This file executes a script that sets the mode of the file hello the same as olleh's mode
