@@ -16,3 +16,6 @@ This file executes a script that changes the owner of file hello to the user bet
 
 4-empty :
 This file executes a script that creates an empty file called hello
+
+5-execute :
+This file executes a script that adds execute permission to the owner of the file hello0
